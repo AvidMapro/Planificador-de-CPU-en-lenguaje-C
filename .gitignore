@@ -1,0 +1,6 @@
+cpu_scheduler_project/cpu_sim_des/cpu_sim
+cpu_scheduler_project/cpu_sim_des/gantt.txt
+cpu_scheduler_project/cpu_sim_des/events.csv
+__pycache__/
+*.py[cod]
+.DS_Store
